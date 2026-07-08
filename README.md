@@ -46,37 +46,30 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alwin42&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Alwin42&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alwin42&theme=highcontrast&hide_border=false)<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin42&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br/>
 
-## 🏆 Trophies & Contributions
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alwin42&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</div>
+## 🏆 GitHub Trophies
 
-<br/>
+![](https://github-profile-trophy.vercel.app/?username=Alwin42&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
 
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Alwin42&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
+
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=Alwin42&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
+
+
 
 ---
 
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Alwin42&icon=1&color=0" alt="Profile Views" />
-  </a>
-</div>
+[![](https://visitcount.itsvg.in/api?id=Alwin42&icon=1&color=0)](https://visitcount.itsvg.in)
+
+
