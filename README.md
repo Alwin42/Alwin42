@@ -46,30 +46,40 @@
 
 <br/>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="Alwin's GitHub Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Alwin42&theme=highcontrast&hide_border=false" alt="Alwin's Streak Stats" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Alwin's Top Languages" />
+</div>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Alwin42&theme=highcontrast&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
+<br/>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Alwin42&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alwin42&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="Alwin's Trophies" />
+</div>
 
-
+<br/>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Alwin42&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
-
-
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Alwin42&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Alwin42&icon=1&color=0)](https://visitcount.itsvg.in)
-
-
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Alwin42&icon=1&color=0" alt="Profile Views" />
+  </a>
+</div>
