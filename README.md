@@ -43,21 +43,22 @@
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Brevo](https://img.shields.io/badge/Brevo-0B996F?style=for-the-badge&logo=brevo&logoColor=white)
 
 <br/>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true" alt="Alwin's GitHub Stats" />
+  <img src="https://github-readme-stats.lecoq.io/api?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"/>
 </div>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alwin42&theme=highcontrast&hide_border=false" alt="Alwin's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Alwin42&theme=highcontrast&hide_border=false"  />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Alwin's Top Languages" />
+  <img src="https://github-readme-stats.lecoq.io/api/top-langs/?username=Alwin42&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 <br/>
@@ -65,7 +66,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alwin42&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" alt="Alwin's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Alwin42&theme=github_dark&no-frame=false&no-bg=false&margin-w=4" />
 </div>
 
 <br/>
@@ -73,13 +74,13 @@
 ### 🔝 Top Contributed Repo
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Alwin42&limit=5&theme=github_dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Alwin42&limit=5&theme=github_dark&combine_all_yearly_contributions=true" />
 </div>
 
 ---
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Alwin42&icon=1&color=0" alt="Profile Views" />
+    <img src="https://visitcount.itsvg.in/api?id=Alwin42&icon=1&color=0"/>
   </a>
 </div>
