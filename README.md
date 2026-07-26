@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 Currently building: Saadhanam-kadayil-undo (an inventory management application)<br>💡 What I Do: Craft responsive, user-friendly frontend interfaces and robust backend logic<br>🌱 Stack Focus: JavaScript, HTML & CSS, alongside Vue.js and Node.js<br>🎨 UI/UX Design: Create seamless, visually appealing digital experiences<br>🔧 Problem Solving: Turn complex ideas into scalable, working solutions
+🔭 Currently building: Full stack web applications and AI integrations 
+<br>🌱 Stack Focus: JavaScript, HTML & CSS, alongside Vue.js and Node.js<br>🎨 UI/UX Design: Create seamless, visually appealing digital experiences<br>🔧 Problem Solving: Turn complex ideas into scalable, working solutions
 
 
 ## 🌐 Socials:
