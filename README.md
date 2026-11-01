@@ -27,7 +27,7 @@
 ```
 
 <p align="center">
-<b>Frontend or full-stack engineer</b> · Kochi, Kerala<br>
+<b>Full-stack engineer</b> · Kochi, Kerala<br>
 Hey there! I'm Alwin, turning ideas into reality with every line of code.
 </p>
 
