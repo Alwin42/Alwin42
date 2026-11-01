@@ -1,22 +1,106 @@
-# 💫 About Me:
-🔭 Currently building: Full stack web applications and AI integrations 
-<br>🌱 Stack Focus: JavaScript, HTML & CSS, alongside Vue.js and Node.js<br>🎨 UI/UX Design: Create seamless, visually appealing digital experiences<br>🔧 Problem Solving: Turn complex ideas into scalable, working solutions
+```text
+╭────────────────────────────────────────────────────────────────────────────────╮
+│  PROFILE / LIVING IDENTITY                                           @alwin42  │
+│                                                          ▄▄▀▀·····▀▄·          │
+│  HELLO, WORLD. I'M                                    ···▄▄▄▄·▄▄██████··       │
+│                                                     ··▄████▄███████████···     │
+│   ███  █     █   █ ███ █   █                       ·▄█·███▀████████████·▀··    │
+│  █   █ █     █   █  █  ██  █                      ·███▄···██████████████····   │
+│  █████ █     █ █ █  █  █ █ █                      ███████▄██████████████····   │
+│  █   █ █     ██ ██  █  █  ██                      ▀█████████▀··▀███▀███·····   │
+│  █   █ █████ █   █ ███ █   █                      ··██████▄·····@▀···▀█·▄···   │
+│                                                   ··██████············▀·▀···   │
+│  █████ █   █ █   █  ███  █   █ █   █ █████ █       ··████················▄▀    │
+│  █     ██ ██ ██ ██ █   █ ██  █ █   █ █     █        ·▀███··············▄█▀     │
+│  ████  █ █ █ █ █ █ █████ █ █ █ █   █ ████  █          ·▀················       │
+│  █     █   █ █   █ █   █ █  ██ █   █ █     █             ············          │
+│  █████ █   █ █   █ █   █ █   █  ███  █████ █████    @ Kochi, Kerala            │
+│                                                                                │
+│  Python / JavaScript / HTML                                                    │
+│  Kochi, Kerala                                                                 │
+│                                                                                │
+│  ────────────────────────────────────────────────────────────────────────────  │
+│  REPOSITORIES    ·   STARS           ·   CONTRIBUTIONS   ·   FOLLOWERS         │
+│  16                  1                   513                 20                │
+│                                                            github.com/Alwin42  │
+╰────────────────────────────────────────────────────────────────────────────────╯
+```
 
+<p align="center">
+<b>Frontend or full-stack engineer</b> · Kochi, Kerala<br>
+Hey there! I'm Alwin, turning ideas into reality with every line of code.
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alwindev1010@gmail.com) 
+## Identity, with signal
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Alwin42&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Alwin42&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Alwin42&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<table>
+<tr>
+<td width="64%" valign="top">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Alwin42&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+- 🔭 **Building:** full stack web applications and AI integrations
+- 🌱 **Stack focus:** JavaScript, HTML & CSS, alongside Vue.js and Node.js
+- 🎨 **UI/UX:** seamless, visually appealing digital experiences
+- 🔧 **Problem solving:** complex ideas turned into scalable, working solutions
 
----
-[![](https://komarev.com/ghpvc/?username=Alwin42&icon=0&color=0)](https://visitcount.itsvg.in)
+<sub>Thoughtful collaboration, ambitious products, and useful open source.</sub>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</td>
+<td width="36%" valign="top">
+
+`LIVE SIGNAL`
+
+**16** repos<br>
+**1** stars<br>
+**513** contributions<br>
+**20** followers
+
+</td>
+</tr>
+</table>
+
+## What moves the work
+
+```text
+╭────────────────────────────────────────────────────────────────────────────────╮
+│  CURRENT FOCUS                                                                 │
+│  Ideas taking shape                                                            │
+│  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   │
+│                                                                                │
+│  01                        02                        03                        │
+│  ────────────────────      ────────────────────      ────────────────────      │
+│  Python                    JavaScript                HTML                      │
+│  Current focus             In the build queue        In the build queue        │
+│                                                                                │
+╰────────────────────────────────────────────────────────────────────────────────╯
+```
+
+## The tools behind the signal
+
+```text
+╭────────────────────────────────────────────────────────────────────────────────╮
+│  TECHNOLOGY SPECTRUM                                                           │
+│  The tools behind the work                               share of public code  │
+│  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -   │
+│                                                                                │
+│  Python       ██████████████████████████████████████████████▌░░░░░░░   86%     │
+│  JavaScript   ███░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    6%     │
+│  HTML         ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    4%     │
+│  Vue          █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    2%     │
+│  CSS          ▌░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1%     │
+│                                                                                │
+╰────────────────────────────────────────────────────────────────────────────────╯
+```
+
+<p align="center"><sub>Python · JavaScript · HTML · Vue · CSS · TypeScript · PowerShell · Shell, chosen for the work, not the trend.</sub></p>
+
+| Area | Tools |
+|---|---|
+| **Languages** | `C` `C++` `Java` `JavaScript` `Python` `HTML5` |
+| **Frontend** | `React` `Next.js` `Vue.js` `Angular` `Tailwind CSS` `Vite` `p5.js` |
+| **Backend** | `Node.js` `Express` `Django` `FastAPI` `Flask` `Web3.js` |
+| **Data and deploy** | `MongoDB` `MySQL` `PostgreSQL` `Vercel` `Netlify` `Render` |
+| **Design and workflow** | `Figma` `Photoshop` `Illustrator` `Git` `GitHub` `npm` |
+
+## Say hello
+
+📫 [alwindev1010@gmail.com](mailto:alwindev1010@gmail.com) · 🐙 [github.com/Alwin42](https://github.com/Alwin42)
