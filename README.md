@@ -29,7 +29,7 @@
 I am a Computer Science student passionate about building scalable, performant, and accessible web applications. I enjoy turning complex problems into simple, elegant, and well-tested code.
 
 - 📍 **Location:** Kerala,India 
-- 💼 **Current Role:** Software Engineer 
+- 💼 **Current Role:** Full Stack Developer 
 - 🚀 **Current Focus:** Building robust full-stack solutions and exploring innovative tech applications
 - 💡 **Philosophy:** Every changes happens for a reason
 
